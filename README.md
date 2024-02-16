@@ -1,4 +1,23 @@
-# Todo List X MVC with React
+# clone
 
-- A starter project for react tutorial
-- This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+```
+git clone https://github.com/GHSergio/C4-todoList.git
+```
+
+## 進入專案資料夾
+
+```
+cd todolist-react-starter
+```
+
+### 啟動
+
+```
+npm start
+```
+
+#### 至網頁
+
+```
+http://localhost:3000/todos
+```
