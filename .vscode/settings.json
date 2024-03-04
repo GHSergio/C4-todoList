@@ -22,5 +22,12 @@
   "editor.formatOnSave": true,
   "editor.formatOnPaste": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "cSpell.words": ["clsx", "Swal", "sweetalert", "todos"]
+  "cSpell.words": [
+    "clsx",
+    "predeploy",
+    "Swal",
+    "sweetalert",
+    "todolist",
+    "todos"
+  ]
 }
