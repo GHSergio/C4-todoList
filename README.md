@@ -1,7 +1,7 @@
 # 專案簡介
 
 使用 React 框架 --> TodoList
-含 CRUD & AuthToken Login Logout 功能
+含 CRUD & AuthToken SignUp Login Logout 功能
 
 # clone
 
