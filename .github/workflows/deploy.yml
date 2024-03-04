@@ -1,5 +1,5 @@
 name: Deploy to GitHub pages
-# 當branches更新,執行job
+
 on:
   push:
     branches: [main]

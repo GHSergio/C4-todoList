@@ -1,7 +1,7 @@
 # 專案簡介
 
-使用 React 框架 串 API
-做出含有 CRUD & Auth Login SignUp 功能的 TodoList
+使用 React 框架 --> TodoList
+含 CRUD & AuthToken Login Logout 功能
 
 # clone
 
@@ -26,3 +26,11 @@ npm start
 ```
 http://localhost:3000/todos
 ```
+
+##### 使用工具與版本
+
+-Node.js v16.20.0
+-React v18.2.0
+-Clsx v2.1.0
+-React-router-dom v6.21.1
+-Styled-components v5.3.5
