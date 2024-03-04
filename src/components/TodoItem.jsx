@@ -105,11 +105,11 @@ const StyledTaskItem = styled.div`
 const TodoItem = ({ todo, onToggleDone, onSave, onDelete, onChangeMode }) => {
   const inputRef = useRef(null);
   const handleKeyDown = (e) => {
-    //內容長度>0 且 按鍵為Enter 儲存current input value
+    //input有value 且 按下Enter --> 透過onSave回傳id & title給父層
     if (inputRef.current.value.length > 0 && e.key === 'Enter') {
       onSave?.({ id: todo.id, title: inputRef.current.value });
     }
-    //按鍵為ESC 放棄更改
+    //按下Esc --> 透過onChangeMode回傳id & isEdit給父層
     if (e.key === 'Escape') {
       onChangeMode?.({ id: todo.id, isEdit: false });
     }

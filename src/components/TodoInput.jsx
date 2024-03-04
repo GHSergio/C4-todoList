@@ -80,10 +80,11 @@ const TodoInput = ({ inputValue, onChange, onKeyDone, onAddTodo }) => {
           type="text"
           placeholder="新增工作"
           value={inputValue}
-          // 只要每次onChange都會獲取e.target.value
+          // value為TodoPage傳遞的inputValue
           onChange={(e) => {
             onChange?.(e.target.value);
           }}
+          //按Enter
           onKeyDown={(e) => {
             if (e.key === 'Enter') {
               onKeyDone?.();

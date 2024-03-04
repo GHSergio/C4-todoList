@@ -1,3 +1,8 @@
+# 專案簡介
+
+使用 React 框架 串 API
+做出含有 CRUD & Auth Login SignUp 功能的 TodoList
+
 # clone
 
 ```

@@ -3,9 +3,9 @@ import TodoItem from './TodoItem';
 const TodoCollection = ({
   todos,
   onToggleDone,
+  onChangeMode,
   onSave,
   onDelete,
-  onChangeMode,
 }) => {
   return (
     <div>
