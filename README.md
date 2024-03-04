@@ -24,10 +24,7 @@ npm start
 #### 至網頁
 
 ```
-http://localhost:3000/todos
+https://ghsergio.github.io/C4-todoList
 ```
 
 ##### 使用工具與版本
-
-
-
