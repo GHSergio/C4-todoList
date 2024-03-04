@@ -29,8 +29,5 @@ http://localhost:3000/todos
 
 ##### 使用工具與版本
 
--Node.js v16.20.0
--React v18.2.0
--Clsx v2.1.0
--React-router-dom v6.21.1
--Styled-components v5.3.5
+
+
