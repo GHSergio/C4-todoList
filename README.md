@@ -23,8 +23,4 @@ npm start
 
 #### 至網頁
 
-```
-https://ghsergio.github.io/C4-todoList
-```
-
-##### 使用工具與版本
+- Live Site URL: [https://ghsergio.github.io/C4-todoList/todos](https://ghsergio.github.io/C4-todoList/todos)
