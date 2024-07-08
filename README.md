@@ -1,7 +1,11 @@
 # 專案簡介
 
 使用 React 框架 --> TodoList
-含 CRUD & AuthToken SignUp Login Logout 功能
+
+###功能:
+-CRUD操作：用戶可以創建、閱讀、更新和刪除任務。
+-API串接：使用Fetch API從後端獲取任務數據並進行同步。
+-身份驗證：實現用戶註冊、登錄及身份驗證，確保數據安全。
 
 # clone
 
